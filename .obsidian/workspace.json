@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "cd10afd08bbeaf05",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6761cbef47b13c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7cf23f9b7a8ebd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb7f830c0bd4742f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3620cb8701665800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee130d0f5cb7f95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "88f184cee410adcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01acb39e414e89c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "2923a965167a36fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd030dd5b7067c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30568806ae0320bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Knowledge/Domains/Academic_Calendar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Academic_Calendar"
+            }
+          },
+          {
+            "id": "a18917c54209bb5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Knowledge/Domains/Academic_Calendar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Academic_Calendar"
+            }
+          },
+          {
+            "id": "771e30c08a7f28a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55e37ca76511fa9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9d7b31cbf49f9734",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Knowledge/Domains/Academic_Calendar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Academic_Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3b7cf23f9b7a8ebd",
+  "lastOpenFiles": [
+    "DOMAINS/การติดต่อ.md",
+    "TOPICS/สินเชื่อการศึกษา_กยศ.md",
+    "การใช้งาน ACIS.md",
+    "TOPICS/สำนักทะเบียน.md",
+    "TOPICS/วิธีการพิมพ์ใบเสร็จและชำระเงิน.md",
+    "TOPICS/ระเบียบวินัยนักศึกษา.md",
+    "TOPICS/ระเบียบการสอบ.md",
+    "TOPICS/ปฏิทินการศึกษา.md",
+    "TOPICS/ทุนเพชรพระจอมเกล้า.md",
+    "TOPICS/ทุนนักศึกษานานาชาติ.md",
+    "TOPICS/ทุนการศึกษาสำหรับนักศึกษาปัจจุบัน.md",
+    "TOPICS/คู่มือระบบสารสนเทศ.md",
+    "TOPICS/คำถามที่พบบ่อย_ทุนการศึกษา.md",
+    "TOPICS/ค่าสมัครเรียน.md",
+    "TOPICS/ค่าใช้จ่ายตลอดหลักสูตรของแต่ละหลักสูตร.md",
+    "TOPICS/ขั้นตอนการยื่นคำขอทุน.md",
+    "TOPICS/ขั้นตอนการปลด_ถอนวิชา.md",
+    "TOPICS/ข้อมูลติดต่อสำนักงานทะเบียน.md",
+    "TOPICS/การลงทะเบียนเรียน.md",
+    "TOPICS/การรักษาสภาพนักศึกษา.md",
+    "TOPICS/การทำบัตรนักศึกษา.md",
+    "TOPICS/การใช้งานACIS.md",
+    "TOPICS/การขึ้นทะเบียนนักศึกษา.md",
+    "DOMAINS/เอกสารและแบบฟอร์ม.md",
+    "SOURCE/ ocr_output/others/ขั้นตอนการทำบัตรนักศึกษา.md",
+    "SOURCE/ ocr_output/others/ติดต่อสำนักงานทะเบียน.md",
+    "archive/TOPICS",
+    "archive/TEMPLATE",
+    "archive/SOURCE",
+    "archive/OTHERS",
+    "archive/DOMAINS",
+    "archive/ ocr_output/scholarship",
+    "archive/ ocr_output/registration",
+    "archive/ ocr_output/others",
+    "archive/ ocr_output/fees",
+    "archive/ ocr_output/academic_rules"
+  ]
+}
